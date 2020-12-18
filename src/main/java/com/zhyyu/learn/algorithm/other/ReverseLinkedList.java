@@ -1,4 +1,4 @@
-package com.zhyyu.learn.algorithm.linkedlist;
+package com.zhyyu.learn.algorithm.other;
 
 public class ReverseLinkedList {
 
