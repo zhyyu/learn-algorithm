@@ -5,7 +5,7 @@ package com.zhyyu.learn.algorithm.jianzhi;
  * @date 2021/1/22
  * @see https://github.com/CyC2018/CS-Notes/blob/master/notes/14.%20%E5%89%AA%E7%BB%B3%E5%AD%90.md
  */
-public class Jianzhi_14_I_剪绳子_TODO_动态规划解法 {
+public class Jianzhi_14_I_剪绳子 {
 
     public static void main(String[] args) {
         System.out.println(new Solution().cuttingRope(20));
