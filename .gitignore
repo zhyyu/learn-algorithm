@@ -5,3 +5,5 @@ target
 java_pid*
 *dump*
 *.iml
+
+.idea/*
