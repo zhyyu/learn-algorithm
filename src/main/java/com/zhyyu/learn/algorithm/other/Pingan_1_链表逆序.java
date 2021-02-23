@@ -1,6 +1,6 @@
 package com.zhyyu.learn.algorithm.other;
 
-public class ReverseLinkedList {
+public class Pingan_1_链表逆序 {
 
 	public static void main(String[] args) {
 		Node node4 = new Node(4, null);
