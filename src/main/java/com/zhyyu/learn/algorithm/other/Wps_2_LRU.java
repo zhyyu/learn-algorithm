@@ -3,7 +3,7 @@ package com.zhyyu.learn.algorithm.other;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Xiaomi_2_LRU {
+public class Wps_2_LRU {
 
     public static void main(String[] args) {
         LRUCache lruCache = new LRUCache(2);

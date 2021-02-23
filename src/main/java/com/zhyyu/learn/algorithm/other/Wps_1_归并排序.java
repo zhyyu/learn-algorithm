@@ -5,9 +5,9 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-public class Xiaomi_1_归并排序 {
+public class Wps_1_归并排序 {
 
-    public Xiaomi_1_归并排序() {
+    public Wps_1_归并排序() {
     }
 
     public static void main(String[] args) {
