@@ -7,3 +7,5 @@ java_pid*
 *.iml
 
 .idea/*
+git-email.sh
+.DS_Store
